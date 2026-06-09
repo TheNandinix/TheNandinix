@@ -13,8 +13,7 @@ and systems that break.*
 
 ## Now
 
-- Python · C++ · Google Cloud
-- Building toward first deployment: July 2026
+- Python · C++ · GCP
 - Daily code log → [build-log](https://github.com/TheNandinix/Build-log)
 
 ---
